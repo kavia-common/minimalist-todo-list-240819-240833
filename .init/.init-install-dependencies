@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/minimalist-todo-list-240819-240833/todo_frontend"
+}
